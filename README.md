@@ -163,9 +163,9 @@ Person
 
 Okay, enjoy. If I'm motivated; I'll also show you these things later:
 
-* how to setup a text editor to make writing reading the document more enjoyable,
-* idioms that will help your notation map to your brain better,
-* you the simple language engine (non.py) to lex and parse the language: you can provide a datastore for your direct reports to use when implementing.
+* how to setup a text editor to make writing and reading more enjoyable,
+* idioms of _non_ notation,
+* the simple language engine (non.py) to lex and parse the language: you can provide a datastore to dev to use when implementing.
 
 > Please create tools to translate your code to non object notation
 
