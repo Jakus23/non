@@ -55,7 +55,7 @@ Stakeholder
 ````
 This mind-map is cool. You should have already learned something about stakeholders (and about the _non_ language).
 
-There is no markdown or brackets required.
+There are no markdown or brackets required.
 
 > Capitalise the “Frames” and no special characters for uniformity of terms
 
