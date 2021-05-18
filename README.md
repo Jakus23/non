@@ -120,7 +120,7 @@ You'll see that some slots may have defaults to help you keep your slots consist
 Terminal
 --------
 
-You sometimes have records of your frames. It is to group cases to a specific frame.
+You sometimes have records of your frames. It is to group cases of a frame.
 
 Let's use person for this example...
 ```
