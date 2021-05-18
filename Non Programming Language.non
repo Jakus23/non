@@ -1,0 +1,140 @@
+Rules
+    Syntax
+        Readibility Matters
+            Full Words Only
+            Short Terms
+            Fix Misspellings
+            No Synonym For Different Slots
+            Singluars Only
+        Purposes
+            Frames Are Uppercase
+            Slots Are Lowercase
+            Terminals Have A Dash
+            Aliases Have Brackets
+            New Lines And Indents Are For Structure
+            Aliases Used For Dependencies
+    Generality
+        Eliminate Unnecessary Specificity And Duplicates
+        Independent And Single Fact Slots
+        Highest Generality Of Frames
+        State All Dependencies
+    Frame
+        Parent Child
+            May Have Many First Class Entities
+            Child Is A Parent
+            More Than One Child
+            No More Than Twelve Children
+            A Child's Child Is A Parent
+            A Child Has One Parent
+            Two Different Types If Different Parents
+            Inheritance
+                Inherit Slots From Full Linage Of Parents
+                Overload To Closest Inheritance
+        Sibling
+            All Siblings Have The Same Granualarity
+            Siblings May Have The Same Slot If Default Values Are Different
+    Slot
+        Only Lowercase Characters
+        Same Slot For Different Frames Means The Slot Has A Dependent Frame
+        Assign Enough Concatenated Frame Properties To Be Unambigous
+        Order Per Type From Most Intrisic To Most Extrisic
+        No Transitive Frame Slot Dependence
+    Terminal
+        Natural Occuring Frame
+        Higher Level Is Better
+    Alias
+        For Descriptions
+        When Frame Has More Then One Of The Same Slots
+        May Link To Frame
+    Defaults
+        Start With Semicolon
+        Then A Space
+        Atomic Unicode Data
+        Fits On One Line
+        Data Overrides
+            Boolean
+                True
+                    - true
+                    - t
+                    - y
+                    - yes
+                    - yeah
+                    - yup
+                    - certainly
+                    - uh-huh
+                False
+                    - false
+                    - f
+                    - n
+                    - no
+                    - nein
+                    - nope
+                    - uncertain
+                    - oh-no
+                None
+                    - null
+                    - none
+                    - nothing
+                    - nada
+                    - zilch
+                    - nix
+                    - not a thing
+                    - empty
+                    - blank
+            Integer
+            Float
+            String
+        
+Global Settings
+    background colour (colour): White
+Colour
+    - Charcoal
+    - Denim Blue
+    - Cardinal
+    - Yellow Green Color Wheel
+    - Gray Web
+    - White
+    hex
+    rgb
+Yet Another Compiler Compiler
+    lexical analysis
+    parser
+    full file path 
+    file name (text): Approach
+    file extension (text): .non
+    parse file (function)
+Token
+    Frame
+    Slot
+    Alias
+    Element
+    Hook
+    Tab
+    New Line
+    attribute or context
+    colour
+    is case
+    allow folding
+    open
+    close
+    is italic
+    is prefix
+Special Values
+    Yes
+    No
+    None
+State
+    yet another compiler compiler
+    current indent
+    line number
+    description
+    token
+Record
+    yet another compiler compiler
+    subject
+    predicate
+        Is A
+        Has A
+        Element
+    object   
+
