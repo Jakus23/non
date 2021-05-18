@@ -2,9 +2,7 @@
 
 > A framing language that imitates the way we think
 
-The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed at managers in the financial sector.
-
-It is a language for thinking and not for implementing. The tokens that should map naturally to your brain are:
+The initial aim of the language is to reduce the overhead of using a mind-map. The tokens that should map naturally to your brain are:
 * frames,
 * slots,
 * defaults,
@@ -15,7 +13,7 @@ It is a language for thinking and not for implementing. The tokens that should m
 
 Save `Hello World` in a file with a `.non` extension.
 
-Over time the language became more consequential for me, to the point where my business motivations became digital and consistent, before any discussions with dev.
+Over time the language became more consequential, to the point where business motivations are digital and consistent fast. You can discuss implemenation details with dev later.
 
 More about each token...
 
