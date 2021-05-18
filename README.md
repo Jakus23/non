@@ -13,7 +13,7 @@ It is a language for thinking and not for implementing. The tokens that should m
 
 **The ‘Hello World!’ example**
 
-Save `Hello World` in a file with a `.non` extension. You're done with your first program.
+Save `Hello World` in a file with a `.non` extension.
 
 Over time the language became more consequential for me, to the point where my business motivations became digital and consistant, before any discussions with dev.
 
