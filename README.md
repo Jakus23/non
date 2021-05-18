@@ -11,14 +11,11 @@ It is a language for thinking and not for implementing. The tokens that should m
 * aliases, and
 * terminals.
 
-**Hello World!**
-This example is valid:
+**The Hello World! example**
 
-`Hello World`
+Save `Hello World` in a file with a `.non` extension. You're done with your first program.
 
-Save in a file with a `.non` extension. You're done with your first program.
-
-Over time it became more consequential for me, to the point where my business modeling is digitised using _non_ before any real discussions or implementation started.
+Over time it became more consequential for me, to the point where my business modeling is digitised using _non_ before any real discussion with dev.
 
 More about each token...
 
