@@ -61,8 +61,7 @@ This mind-map is cool. You should have already learned something about stakehold
 
 There is no markdown or brackets required.
 
-> Capitalise the “Frames”
-> No special characters
+> Capitalise the “Frames” and no special characters for uniformity of terms
 
 Slot and default
 ----------------
