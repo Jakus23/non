@@ -11,7 +11,7 @@ The initial aim of the language is to reduce the overhead of using a mind-map. T
 
 > **The ‘Hello World!’ example**: Save `Hello World` in a file with a `.non` extension.
 
-Over time the language became more consequential, to the point where business motivations are digital and consistent fast. You can discuss implemenation details with dev later.
+You can make business motivation digital and consistent fast with _non_, and discuss implementation details with dev later.
 
 More about each token...
 
