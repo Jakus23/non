@@ -15,7 +15,7 @@ It is a language for thinking and not for implementing. The tokens that should m
 
 Save `Hello World` in a file with a `.non` extension.
 
-Over time the language became more consequential for me, to the point where my business motivations became digital and consistant, before any discussions with dev.
+Over time the language became more consequential for me, to the point where my business motivations became digital and consistent, before any discussions with dev.
 
 More about each token...
 
