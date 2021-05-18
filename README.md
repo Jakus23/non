@@ -1,15 +1,14 @@
-# non
-Non Object Notation (NON) Programming Language
-==============================================
+# Non Object Notation (NON) Programming Language
+
 > A framing language that imitates the way we think
 
-The initial aim of the language is to reduce the overhead of using a mind0mapping tool, especially in quantitative finance. Over time it became more consequential to the point where my business modeling is digital.
+The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed for managers in the finance sector. Over time it became more consequential to the point where my business modeling is digitised using _non_ before any real discussions or implementation started. It is a superpower.
 
 This example is valid:
 
 `Hello World`
 
-Save in a file with a `.non` extension. You're done.
+Save in a file with a `.non` extension. You're done with your first (not useful) program.
 
 It is a language for thinking and not for implementing. The tokens that should map naturally to your brain are:
 * frames,
@@ -40,7 +39,7 @@ Stakeholder
                     Trust
                     Practice
                 Closed Corporation
-        Non Profit
+        Nonprofit
             Non Government Organisation
                 Charity
                 Foundation
@@ -60,7 +59,10 @@ Stakeholder
 ````
 This mind-map is cool. You should have already learned something about stakeholders (and about the _non_ language).
 
-There is no markdown or brackets required. Capitalise the “Frames”, and no special characters. It will keep your code uniform, so that you can focus on the domain.
+There is no markdown or brackets required.
+
+> Capitalise the “Frames”
+> No special characters
 
 Slot and default
 ----------------
@@ -117,15 +119,15 @@ Person
       Doctors
     minor child count
 ```
-You'll see that some slots may have defaults to help you keep your slots consistent. A colon separates the slot from the default. Each slot may also act as a selector for some frames. We also should order the slots from most essential to least descriptive.
+You'll see that some slots may have defaults to help you keep your slots consistent. A colon separates the slot from the default. Each slot may also act as a selector for some frames.
+> Order the slots from most essential to least descriptive
 
 Terminal
 --------
-> When you go pro you'll build your to-do list using terminal
 
-You sometimes have records of your frames. It is to map variations of data for a slot.
+You sometimes have records of your frames. It is to group cases to a specific frame.
 
-Let's also use person for this example
+Let's use person for this example...
 ```
 Person
    - John Doe
@@ -135,20 +137,20 @@ Person
       birthdate: 1986-10-11
       gender: Male
  ```
-
+> When you go-pro, you're to-do list will be terminals
 
  Alias
  -----
- You'll see the name of the record is “John Doe”. It doesn't have to be all the slots of a frame to be useful. You can also repeat slots if required. For example
+ You'll see the name of the record is “John Doe”. It doesn't have to be all the slots of a frame to be useful. You can also repeat slots if required. For example...
  ```
  Person
      - Jakus van Rooyen
         home language (language): Afrikaans
         business language (language): English
 ```
-Now you have two slots that is of the same kind, but with two different defaults.
+Now you have two slots of the same kind, but with two different defaults.
 
-Lastly, but very importantly, a slot can map to a frame.
+Lastly, a slot can map to a frame.
 
 ```
 Language
@@ -158,18 +160,18 @@ Language
         first spoken: 1900 AD
 Person
     language: English
-     - Jakus van Rooyen
+    - Jakus van Rooyen
         home language (language): Afrikaans
         business language (language): English
 ```
-You'll find this natural to the relational mappings.
+> It's to do relational mappings
 
 Okay, enjoy. If I'm motivation; I'll also show you:
 *how to setup a text editor to make writing reading the document more enjoyable,
 *idioms that will help your notation map to your brain better,
 *you the simple language engine (non.py) to lex and parse the language: you can provide a datastore for your direct reports to use when implementing.
 
-> Please create tools to translate code to non
+> Please create tools to translate your code to non object notation
 
 Cheers!
         
