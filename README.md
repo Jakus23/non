@@ -11,11 +11,11 @@ It is a language for thinking and not for implementing. The tokens that should m
 * aliases, and
 * terminals.
 
-**The Hello World! example**
+**The ‘Hello World!’ example**
 
 Save `Hello World` in a file with a `.non` extension. You're done with your first program.
 
-Over time it became more consequential for me, to the point where my business modeling is digitised using _non_ before any real discussion with dev.
+Over time the language became more consequential for me, to the point where my business motivations became digital and consistant, before any discussions with dev.
 
 More about each token...
 
@@ -174,4 +174,3 @@ Okay, enjoy. If I'm motivation; I'll also show you:
 > Please create tools to translate your code to non object notation
 
 Cheers!
-        
