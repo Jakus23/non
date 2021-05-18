@@ -132,7 +132,7 @@ Person
       birthdate: 1986-10-11
       gender: Male
  ```
-> When you go-pro, you're to-do list will be terminals
+> When you go-pro, your to-do list will be terminals
 
  Alias
  -----
