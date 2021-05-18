@@ -140,7 +140,7 @@ Person
 
  Alias
  -----
- You'll see the name of the record is “John Doe”. It doesn't have to be all the slots of a frame to be useful. You can also repeat slots if required. For example...
+ It doesn't have to be all the slots of a frame to be useful. You can also repeat slots if required. For example...
  ```
  Person
      - Jakus van Rooyen
