@@ -159,9 +159,9 @@ Person
         home language (language): Afrikaans
         business language (language): English
 ```
-> It's to do relational mappings
+> Do graphs
 
-Okay, enjoy. If I'm motivation; I'll also show you:
+Okay, enjoy. If I'm motivated; I'll also show you these things later:
 *how to setup a text editor to make writing reading the document more enjoyable,
 *idioms that will help your notation map to your brain better,
 *you the simple language engine (non.py) to lex and parse the language: you can provide a datastore for your direct reports to use when implementing.
