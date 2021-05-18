@@ -2,7 +2,7 @@
 
 > A framing language that imitates the way we think
 
-The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed at managers in the finance sector.
+The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed at managers in the financial sector.
 
 It is a language for thinking and not for implementing. The tokens that should map naturally to your brain are:
 * frames,
