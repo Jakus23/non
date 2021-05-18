@@ -9,9 +9,7 @@ The initial aim of the language is to reduce the overhead of using a mind-map. T
 * aliases, and
 * terminals.
 
-**The ‘Hello World!’ example**
-
-Save `Hello World` in a file with a `.non` extension.
+> **The ‘Hello World!’ example**: Save `Hello World` in a file with a `.non` extension.
 
 Over time the language became more consequential, to the point where business motivations are digital and consistent fast. You can discuss implemenation details with dev later.
 
