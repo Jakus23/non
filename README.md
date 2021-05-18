@@ -2,13 +2,7 @@
 
 > A framing language that imitates the way we think
 
-The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed for managers in the finance sector. Over time it became more consequential to the point where my business modeling is digitised using _non_ before any real discussions or implementation started. It is a superpower.
-
-This example is valid:
-
-`Hello World`
-
-Save in a file with a `.non` extension. You're done with your first (not useful) program.
+The initial aim of the language is to reduce the overhead of using a mind-mapping tool. It is aimed at managers in the finance sector.
 
 It is a language for thinking and not for implementing. The tokens that should map naturally to your brain are:
 * frames,
@@ -17,7 +11,16 @@ It is a language for thinking and not for implementing. The tokens that should m
 * aliases, and
 * terminals.
 
-More about each...
+**Hello World!**
+This example is valid:
+
+`Hello World`
+
+Save in a file with a `.non` extension. You're done with your first program.
+
+Over time it became more consequential for me, to the point where my business modeling is digitised using _non_ before any real discussions or implementation started.
+
+More about each token...
 
 Frame
 -----
