@@ -1,6 +1,6 @@
 # Non Object Notation (NON) Programming Language
 
-> A programming language that imitates the way we think using the frame data structure
+> A programming language that imitates the way we think using _frames_ to represent knowledge
 
 The initial aim of the language is to reduce the overhead of using a mind-map. The tokens that should map naturally to your brain are:
 * frames,
