@@ -157,7 +157,9 @@ Person
         home language (language): Afrikaans
         business language (language): English
 ```
-> Do graphs
+> You can do graphs
+
+[Here is the full Stakeholder file as an example](https://github.com/Jakus23/non/blob/main/Stakeholder.non)
 
 Okay, enjoy. Other features not in the readme:
 
