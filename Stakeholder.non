@@ -1,13 +1,13 @@
 Person
-    home lauguage (lauguage)
-    nationality (country)
-    first name
-    birthdate
-    gender
+    home lauguage (lauguage): English
+    nationality (country): American
+    first name: John
+    birthdate: 1986-10-11
+    gender: Male
         Male
         Female
-    surname
-    title
+    surname: Doe
+    title: Mnr
         Mnr
         Miss
         Mrs
@@ -16,21 +16,18 @@ Person
         Prof
         ...
     social security number
-    initials
-    identification document type
-        Id
-        Passport
-    is living
-    marital status
+    initials: J
+    is living: Yes
+    marital status: Married
         Married
         Divorced
         Single
         Widow
         Widower
         ...
-    occupation status
+    occupation status: Individual Contributor
         Employed
-            Contributor
+            Individual Contributor
             Manager
             Executive
             Non Executive
@@ -38,10 +35,10 @@ Person
         Self Employed
         Unemployed
         Retired
-    residential status
+    residential status: Renting
         Renting
         Home Owner
-    education standard classification
+    education standard classification: Masters
         Childhood
         Primary
         Lower Secondary
@@ -51,7 +48,7 @@ Person
         Bachelors
         Masters
         Doctors
-    minor child count
+    minor child count: 0
 Organisation
     Not For Profit
         Non Government Organisation
@@ -72,17 +69,17 @@ Organisation
                     practice number
         Closed Corporation
         ...
-    operating status type
-    trading name
-    no terminology name
-    is business unit
-    is group member
-    is user classified
-    is developer of property
-    incorporation country (country)
-business lauguage (lauguage)
-nickname
-full name
+    operating status type: Operating
+    trading name: Apple Computer, Inc.
+    no terminology name: Apple
+    is business unit: No
+    is group member: No
+    is user classified: No
+    is developer of property: No
+    incorporation country (country): America
+business lauguage (lauguage): English
+nickname: Joe
+full name: John Doe
 tax number
 
     
