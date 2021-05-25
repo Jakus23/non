@@ -1,0 +1,88 @@
+Person
+    home lauguage (lauguage)
+    nationality (country)
+    first name
+    birthdate
+    gender
+        Male
+        Female
+    surname
+    title
+        Mnr
+        Miss
+        Mrs
+        Ms
+        Dr
+        Prof
+        ...
+    social security number
+    initials
+    identification document type
+        Id
+        Passport
+    is living
+    marital status
+        Married
+        Divorced
+        Single
+        Widow
+        Widower
+        ...
+    occupation status
+        Employed
+            Contributor
+            Manager
+            Executive
+            Non Executive
+            Independent
+        Self Employed
+        Unemployed
+        Retired
+    residential status
+        Renting
+        Home Owner
+    education standard classification
+        Childhood
+        Primary
+        Lower Secondary
+        Upper Secondary
+        Postsecondary Non Tertiary
+        Short Cycle Tertiary
+        Bachelors
+        Masters
+        Doctors
+    minor child count
+Organisation
+    Not For Profit
+        Non Government Organisation
+            Endowment
+            Foundation
+    Business
+        Corporate
+            Company
+                Public Company
+                Private Company
+                Section53b Company 
+            Professional
+                Sole Propriator
+                Trading As
+                Partnership
+                Trust
+                Practice
+                    practice number
+        Closed Corporation
+        ...
+    operating status type
+    trading name
+    no terminology name
+    is business unit
+    is group member
+    is user classified
+    is developer of property
+    incorporation country (country)
+business lauguage (lauguage)
+nickname
+full name
+tax number
+
+    
