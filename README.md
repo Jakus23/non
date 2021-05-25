@@ -34,7 +34,7 @@ Stakeholder
                     Partnership
                     Trust
                     Practice
-                Closed Corporation
+            Closed Corporation
         Nonprofit
             Non Government Organisation
                 Charity
@@ -48,12 +48,9 @@ Stakeholder
                Agency
                Body
                Institution
-        Social Group
-            Team
-            Club
     Person
 ````
-This mind-map is cool. You should have already learned something about stakeholders (and about the _non_ language).
+You should have already learned something about stakeholders (and about the _non_ language).
 
 There are no markdown or brackets required.
 
@@ -70,25 +67,25 @@ Person
     first name: John
     birthdate: 1986-10-11
     gender: Male
-        Male
-        Female
+      Male
+      Female
     surname: Doe
     title: Mnr
-        Mnr
-        Miss
-        Mrs
-        Ms
-        Dr
-        Prof
+      Mnr
+      Miss
+      Mrs
+      Ms
+      Dr
+      Prof
     social security number
     initials: J
     is living: Yes
     marital status: Married
-        Married
-        Divorced
-        Single
-        Widow
-        Widower
+      Married
+      Divorced
+      Single
+      Widow
+      Widower
     occupation status: Employed
       Employed
         Contributor
@@ -114,13 +111,13 @@ Person
       Doctors
     minor child count
 ```
-You'll see that some slots may have defaults to help you keep your slots consistent. A colon separates the slot from the default. Each slot may also act as a selector for some frames.
-> Order the slots from most essential to least descriptive
+A colon separates the slot from it's default. The default is the most likely value a slot can take. Each slot may also act as a selector between frames.
+> Order the slots from most to least essential to help readers understand the frame
 
 Terminal
 --------
 
-You sometimes have records of your frames. It is to group cases of a frame.
+You sometimes have records that you want to present as examples.
 
 Let's use person for this example...
 ```
@@ -132,20 +129,21 @@ Person
       birthdate: 1986-10-11
       gender: Male
  ```
-> When you go-pro, your to-do list will be terminals
+ The terminal name becomes a “reserved word” and can be used as reference.
+> You can do your task list as terminals
 
  Alias
  -----
  It doesn't have to be all the slots of a frame to be useful. You can also repeat slots if required. For example...
  ```
  Person
-     - Jakus van Rooyen
+     - John Doe
         home language (language): Afrikaans
         business language (language): English
 ```
 Now you have two slots of the same kind, but with two different defaults.
 
-Lastly, a slot can map to a frame.
+A slot can map to a frame and a default can map to a terminal.
 
 ```
 Language
@@ -155,18 +153,18 @@ Language
         first spoken: 1900 AD
 Person
     language: English
-    - Jakus van Rooyen
+    - John Doe
         home language (language): Afrikaans
         business language (language): English
 ```
 > Do graphs
 
-Okay, enjoy. If I'm motivated; I'll also show you these things later:
+Okay, enjoy. Other features not in the readme:
 
 * how to setup a text editor to make writing and reading more enjoyable,
 * idioms of _non_ notation,
 * the simple language engine (non.py) to lex and parse the language: you can provide a datastore to dev to use when implementing.
 
-> Please create tools to translate your code to non object notation
+> An interesting use of *non* is to translate to and from Excel for version control.
 
 Cheers!
