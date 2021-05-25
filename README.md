@@ -164,7 +164,7 @@ Person
 Okay, enjoy. Other features not in the readme:
 
 * how to setup a text editor to make writing and reading more enjoyable,
-* idioms of _non_ notation,
+* _non_ idioms,
 * the simple language engine (non.py) to lex and parse the language: you can provide a datastore to dev to use when implementing.
 
 > An interesting use of *non* is to translate to and from Excel for version control.
