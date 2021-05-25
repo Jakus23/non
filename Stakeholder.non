@@ -50,10 +50,6 @@ Person
         Doctors
     minor child count: 0
 Organisation
-    Not For Profit
-        Non Government Organisation
-            Endowment
-            Foundation
     Business
         Corporate
             Company
@@ -69,6 +65,19 @@ Organisation
                     practice number
         Closed Corporation
         ...
+    Nonprofit
+        Non Government Organisation
+            Charity
+            Foundation
+            Political Party
+            Trade Union
+        Government Organisation
+           Department
+           Ministry
+           Commission
+           Agency
+           Body
+           Institution
     operating status type: Public
     trading name: Apple Computer, Inc.
     no terminology name: Apple
