@@ -25,16 +25,14 @@ Stakeholder
                 Company
                     Public Company
                     Private Company
-                    Section 54B Company
-                    Limited Liability Company
                 Professional
                     Sole Proprietor
                     Trading As
                     Partnership
                     Trust
                     Practice
+                Limited Liability Company
             Closed Corporation
-            
         Nonprofit
             Non Government Organisation
                 Charity
