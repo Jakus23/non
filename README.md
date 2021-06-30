@@ -18,8 +18,8 @@ Frame
 A simple mind-map, using frames:
 
 ```
-Stakeholder
-    Organisation
+Person
+    Legal Person
         Business
             Corporate
                 Company
@@ -46,7 +46,7 @@ Stakeholder
                Agency
                Body
                Institution
-    Person
+    Natural Person
 ````
 Capitalise the first letter of each word in a “Frames”
 
@@ -55,7 +55,7 @@ Slot and default
 Each of these stakeholders should have “Slots” that can distinguish one record from another.
 Let's do “Person” as an example:
 ```
-Person
+Natural Person
     home language: English
     nationality: American
     first name: John
