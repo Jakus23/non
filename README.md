@@ -18,7 +18,7 @@ Frame
 A simple mind-map, using frames:
 
 ```
-Person
+Stakeholder
     Legal Person
         Business
             Corporate
