@@ -50,11 +50,7 @@ Stakeholder
                Institution
     Person
 ````
-You should have already learned something about stakeholders (and about the _non_ language).
-
-There are no markdown or brackets required.
-
-> Capitalise the “Frames” and no special characters for uniformity of terms
+Capitalise the first letter of each word in a “Frames”
 
 Slot and default
 ----------------
