@@ -9,8 +9,6 @@ The initial aim of the language is to reduce the overhead of using a mind-map. T
 * aliases, and
 * terminals.
 
-> **The ‘Hello World!’ example**: Save `Hello World` in a file with a `.non` extension.
-
 You can make business motivation digital and consistent fast with _non_, and discuss implementation details with dev later.
 
 More about each token...
@@ -28,6 +26,7 @@ Stakeholder
                     Public Company
                     Private Company
                     Section 54B Company
+                    Limited Liability Company
                 Professional
                     Sole Proprietor
                     Trading As
@@ -35,6 +34,7 @@ Stakeholder
                     Trust
                     Practice
             Closed Corporation
+            
         Nonprofit
             Non Government Organisation
                 Charity
